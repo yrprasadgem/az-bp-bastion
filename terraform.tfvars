@@ -1,0 +1,5 @@
+public_ip_name_bastion      = "pip-bastion-prdapp01"
+resource_group_name         = "rg-prd-aksapp01"
+public_ip_allocation_method = "Static"
+public_ip_sku               = "Standard"
+azure_bastion_service_name  = "bastion-prdapp01"
